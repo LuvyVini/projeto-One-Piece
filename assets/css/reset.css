@@ -1,0 +1,13 @@
+/* tirando os estilos padronizados do navegador */
+*
+{
+ /*propriedade*//*Valor*/ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* aplicar para retirar as bolinhas que vem na >ul< */
+ul
+{
+     list-style: none;
+}
